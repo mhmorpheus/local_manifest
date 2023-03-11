@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/mido" name="mhmorpheus/device_xiaomi_mido.git" remote="github" revision="yaap-twelve" />
+ <project path="vendor/xiaomi/mido" name="mhmorpheus/vendor_xiaomi_mido.git" remote="github" revision="yaap-twelve" />
+ <project path="kernel/xiaomi/mido" name="mhmorpheus/kernel_xiaomi_mido.git" remote="github" revision="normal" />
+ 
+</manifest>
